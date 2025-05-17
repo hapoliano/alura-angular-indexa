@@ -1,0 +1,31 @@
+{
+  "contatos": [
+    {
+      "nome": "Daniel",
+      "telefone": "99 99999999",
+      "email": "daniell@email.com",
+      "aniversario": "13/04/2002",
+      "redes": "",
+      "observacoes": "",
+      "id": 1
+    },
+    {
+      "nome": "Romew",
+      "telefone": "88 88888888",
+      "email": "romew@email.com",
+      "aniversario": "01/04/2000",
+      "redes": "",
+      "observacoes": "",
+      "id": 2
+    },
+    {
+      "nome": "Juan",
+      "telefone": "61999887711",
+      "email": "juan@email.com",
+      "aniversario": "1988-12-13",
+      "redes": "",
+      "observacoes": "",
+      "id": 3
+    }
+  ]
+}
