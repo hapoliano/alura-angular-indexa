@@ -21,11 +21,20 @@
     {
       "nome": "Juan",
       "telefone": "61999887711",
-      "email": "juan@email.com",
+      "email": "juan01@email.com",
       "aniversario": "1988-12-13",
       "redes": "",
       "observacoes": "",
       "id": 3
+    },
+    {
+      "nome": "Angular",
+      "telefone": "123123123",
+      "email": "a@gmail.com",
+      "aniversario": "",
+      "redes": "",
+      "observacoes": "",
+      "id": 4
     }
   ]
 }
